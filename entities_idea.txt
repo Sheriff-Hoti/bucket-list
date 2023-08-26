@@ -1,0 +1,95 @@
+    User Profile:
+        User ID
+        Username
+        Email
+        Profile Picture
+        Location
+        Interests
+        Achieved Goals
+        In-progress Goals
+        Saved Goals
+        Social Media Links
+
+    Bucket List Goals:
+        Goal ID
+        Goal Title
+        Description
+        Category (Travel, Adventure, Career, Personal Development, etc.)
+        Priority Level
+        Start Date
+        Deadline
+        Progress Status
+        Completion Date
+        Tags/Keywords
+        Location/Travel Destination
+
+    Categories/Tags:
+        Travel
+        Adventure
+        Skills to Learn
+        Fitness and Health
+        Career Milestones
+        Creative Pursuits
+        Cultural Experiences
+        Volunteering
+
+    Progress Tracking:
+        Photos/Videos
+        Journal Entries
+        Milestones Reached
+        Challenges Faced
+        Lessons Learned
+        Reflections
+
+    Social Interaction:
+        Like/Favorite Goals
+        Comments and Discussion
+        Sharing on Social Media
+        Following Other Users
+        Collaboration on Goals
+
+    Privacy Settings:
+        Public/Private Goals
+        Sharing Options
+        Followers/Following Lists
+        Blocking Users
+
+    Notifications:
+        Goal Progress Updates
+        Comments/Replies
+        Achievements and Milestones
+
+    Achievements and Badges:
+        Earned by completing certain types of goals or reaching specific milestones.
+
+    Search and Discovery:
+        Search by Title, Category, Location, Tags
+        Trending Goals
+        Recommended Goals
+        Popular Users
+
+    Admin and Moderation:
+        Admin Panel
+        Content Moderation (to ensure appropriate content and behavior)
+        User Management
+
+    Analytics:
+        User Engagement Metrics
+        Goal Completion Statistics
+        Popular Categories/Tags
+
+    Settings:
+        Account Settings
+        Privacy Settings
+        Notification Preferences
+
+    Mobile App Integration:
+        Mobile-friendly interface
+        Sync with web platform
+
+    Collaborative Goals:
+        Joint goals that users can work on together
+        Shared progress tracking
+
+    Challenges and Contests:
+        Site-wide or user-generated challenges to encourage goal setting and completion.
