@@ -93,3 +93,8 @@
 
     Challenges and Contests:
         Site-wide or user-generated challenges to encourage goal setting and completion.
+
+
+idea: each app(service or microservice) will have its own proto dir and will have an empty dir to generate the proto files called protogen
+notes: to generate ts files use npx buf generate
+note if it doesnt work put @grpc/asdasd to dependencies
