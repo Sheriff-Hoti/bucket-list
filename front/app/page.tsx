@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import {ToDoList} from "@components/ToDoList";
+import {ToDoS} from "@components/ToDoS";
 
 export default function Home() {
     return (

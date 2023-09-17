@@ -3,7 +3,7 @@
 import {trpc} from "@app/_trpc/client";
 import {useState} from "react";
 
-export const ToDoList = () => {
+export const ToDoS = () => {
     const getTodos = trpc.getBuckets.useQuery();
     const addBucket = trpc.addBucket.useMutation({
         onSettled:async () => {

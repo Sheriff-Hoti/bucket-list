@@ -9,8 +9,9 @@ const BucketList = () => {
 
     return (
         <Grid columns="5" gap="3" width="auto">
+            <BucketCard name={'Add a bucket'} link={''} asChild/>
             {getBuckets?.data?.map(x =>
-                <BucketCard name={x.name}/>
+                <BucketCard name={x.name} link={`/bucket/${encodeURIComponent(x.name)}`} asChild/>
             )}
         </Grid>
     )
